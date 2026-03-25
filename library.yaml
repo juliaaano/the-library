@@ -10,6 +10,9 @@ default_dirs:
     - global: ~/.claude/commands/
 
 library:
-  skills: []
+  skills:
+    - name: skill-creator
+      description: Create new skills, modify and improve existing skills, and measure skill performance
+      source: https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
   agents: []
   prompts: []
