@@ -15,6 +15,10 @@ library:
       description: Generate a single-line git commit message from staged changes
       source: https://github.com/juliaaano/skills/blob/main/commit/SKILL.md
 
+    - name: install-showroom-skills
+      description: Install showroom skills, agents, prompts, templates, and docs from the RHDP Skills Marketplace
+      source: https://github.com/juliaaano/skills/blob/main/showroom-skills/SKILL.md
+
     - name: pdf
       description: Read, create, merge, split, rotate, watermark, encrypt, OCR, and manipulate PDF files
       source: https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md
