@@ -23,6 +23,10 @@ library:
       description: Install showroom skills, agents, prompts, templates, and docs from the RHDP Skills Marketplace
       source: https://github.com/juliaaano/skills/blob/main/showroom-skills/SKILL.md
 
+    - name: mcp-builder
+      description: Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools
+      source: https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md
+
     - name: order-ci
       description: Orders a Catalog Item from the Red Hat demo catalog via Playwright browser automation
       source: https://github.com/juliaaano/skills/blob/main/order-ci/SKILL.md
