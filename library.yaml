@@ -15,6 +15,10 @@ library:
       description: Generate a single-line git commit message from staged changes
       source: https://github.com/juliaaano/skills/blob/main/commit/SKILL.md
 
+    - name: pdf
+      description: Read, create, merge, split, rotate, watermark, encrypt, OCR, and manipulate PDF files
+      source: https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md
+
     - name: skill-creator
       description: Create new skills, modify and improve existing skills, and measure skill performance
       source: https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
