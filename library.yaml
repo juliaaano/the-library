@@ -42,5 +42,9 @@ library:
     - name: skill-creator
       description: Create new skills, modify and improve existing skills, and measure skill performance
       source: https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
+
+    - name: validating-kubernetes-intent-and-architecture
+      description: Validate Kubernetes manifest design intent, architectural decisions, and multi-container Pod patterns
+      source: https://github.com/redhat-et/gitops-manifest-validator/blob/main/skills/validating-kubernetes-intent-and-architecture/SKILL.md
   agents: []
   prompts: []
