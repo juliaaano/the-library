@@ -23,6 +23,10 @@ library:
       description: Search the web and answer questions using up-to-date information from the internet
       source: https://github.com/juliaaano/skills/blob/main/search/SKILL.md
 
+    - name: summary
+      description: Summarize recent git activity across multiple repositories with sync, committer stats, and per-repo details
+      source: https://github.com/juliaaano/skills/blob/main/summary/SKILL.md
+
     - name: showroom-skills
       description: Install showroom skills, agents, prompts, templates, and docs from the RHDP Skills Marketplace
       source: https://github.com/juliaaano/skills/blob/main/showroom-skills/SKILL.md
