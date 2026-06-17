@@ -19,6 +19,10 @@ library:
       description: Generate a single-line git commit message from staged changes
       source: https://github.com/juliaaano/skills/blob/main/commit/SKILL.md
 
+    - name: jira-create
+      description: Create Jira issues from free text, logs, links, or descriptions with ADF formatting
+      source: /Users/juliano/.claude/skills/jira-create/skill.md
+
     - name: jira-search
       description: Search, filter, and retrieve Jira issues by key, assignee, status, labels, or any keyword
       source: https://github.com/juliaaano/skills/blob/main/jira-search/SKILL.md
