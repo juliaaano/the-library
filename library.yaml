@@ -47,6 +47,10 @@ library:
       description: Scrape a web page using Firecrawl and answer questions about its content
       source: https://github.com/juliaaano/skills/blob/main/scrape/SKILL.md
 
+    - name: search-company-knowledge
+      description: Search across company knowledge bases (Confluence, Jira, internal docs) to find and explain internal concepts, processes, and technical details
+      source: https://github.com/atlassian/atlassian-mcp-server/blob/main/skills/search-company-knowledge/SKILL.md
+
     - name: skill-creator
       description: Create new skills, modify and improve existing skills, and measure skill performance
       source: https://github.com/anthropics/skills/blob/main/skills/skill-creator/SKILL.md
