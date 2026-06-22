@@ -71,7 +71,8 @@ library:
 
     - name: search-company-knowledge
       description: Search across company knowledge bases (Confluence, Jira, internal docs) to find and explain internal concepts, processes, and technical details
-      source: https://github.com/atlassian/atlassian-mcp-server/blob/main/skills/search-company-knowledge/SKILL.md
+      source: https://github.com/juliaaano/skills/blob/main/search-company-knowledge/SKILL.md
+      # upstream: https://github.com/atlassian/atlassian-mcp-server/blob/main/skills/search-company-knowledge/SKILL.md
 
     - name: skill-creator
       description: Create new skills, modify and improve existing skills, and measure skill performance
