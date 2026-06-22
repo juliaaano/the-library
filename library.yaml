@@ -11,6 +11,10 @@ default_dirs:
 
 library:
   skills:
+    - name: claude-config
+      description: Repo-backed Claude Code configuration workflow — edits source-of-truth files and runs install.sh to sync
+      source: /Users/juliano/.claude/skills/claude-config/SKILL.md
+
     - name: cluster-tenant-checks
       description: Build check/validation scripts for multi-tenant OpenShift workshop lab clusters
       source: https://github.com/juliaaano/skills/blob/main/cluster-tenant-checks/SKILL.md
