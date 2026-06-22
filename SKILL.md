@@ -3,6 +3,9 @@ name: library
 description: Private skill distribution system. Use when the user wants to install, use, add, push, remove, sync, list, or search for skills, agents, or prompts from their private library catalog. Triggers on /library commands or mentions of library, skill distribution, or agentic management.
 argument-hint: [command or prompt] [name or details]
 disable-model-invocation: true
+model: sonnet
+context: fork
+allowed-tools: Bash(git:*), Bash(cp:*), Bash(mkdir:*), Bash(rm:*), Bash(cat:*), Bash(gh:*), Read, Write, AskUserQuestion
 ---
 
 # The Library
