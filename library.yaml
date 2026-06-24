@@ -27,11 +27,6 @@ library:
       description: Create a structured daily work entry in the wiki .raw folder
       source: https://github.com/juliaaano/skills/blob/main/daily-entry/SKILL.md
 
-    - name: defuddle
-      description: Extract clean markdown content from web pages using Defuddle CLI, removing clutter and navigation to save tokens
-      source: https://github.com/juliaaano/skills/blob/main/defuddle/SKILL.md
-      # upstream: https://github.com/kepano/obsidian-skills/blob/main/skills/defuddle/SKILL.md
-
     - name: jira-create
       description: Create Jira issues from free text, logs, links, or descriptions with ADF formatting
       source: https://github.com/juliaaano/skills/blob/main/jira-create/SKILL.md
