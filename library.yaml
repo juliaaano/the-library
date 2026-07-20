@@ -51,6 +51,10 @@ library:
       description: Orders a Catalog Item from the Red Hat demo catalog via Playwright browser automation
       source: https://github.com/juliaaano/skills/blob/main/order-ci/SKILL.md
 
+    - name: quarterly-connection
+      description: Guide through Red Hat Quarterly Connection self-evaluation with section-by-section drafting, Workday formatting, and iterative refinement
+      source: https://github.com/juliaaano/skills/blob/main/quarterly-connection/SKILL.md
+
     - name: pdf
       description: Read, create, merge, split, rotate, watermark, encrypt, OCR, and manipulate PDF files
       source: https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md
